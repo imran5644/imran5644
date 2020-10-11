@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/image2-4.png" height=400px alt="software-developer-brain"/>
+<img src="https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/image2-4.png" width=100% height=400px alt="software-developer-brain"/>
 <h4>Hi there 👋. This is Imran Yousaf.</h4>
 
 <h2>About me </h2>
