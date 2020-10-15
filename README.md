@@ -28,4 +28,3 @@ HTML         4 hrs 30 mins   ███████████░░░░░░
 CSS          3 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 % 
 JAVASCRIPT   1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
 
-<!--END_SECTION:waka-->
