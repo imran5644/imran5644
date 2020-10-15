@@ -15,9 +15,17 @@ I am a driven individual with the ability to adapt to any situation and proven p
 <li>React</li>
 </ul>
 
-<h2>How to reach me</h2>
-<ul>
-<li>GitHub: @imran5644</li>
-<li>Twitter: @imran56444</li>
-<li>LinkedIn: Imran yousaf</li>
-</ul>
+### :mailbox: How to reach me:
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imran56444) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/imran-yousaf-8777297b/)
+
+
+### :construction_worker: This week stats by [WakaTime]('https://wakatime.com')
+<!--START_SECTION:waka-->
+```text
+Week: 07 October, 2020 - 14 October, 2020
+
+HTML         4 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.47 % 
+CSS          3 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 % 
+JAVASCRIPT   1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 % 
+
+<!--END_SECTION:waka-->
