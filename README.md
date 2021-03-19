@@ -27,4 +27,4 @@
 
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran5644&show_icons=true&theme=radical)
-![[Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran56444&langs_count=8)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran56444&langs_count=8)
