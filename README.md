@@ -10,9 +10,6 @@
   <li>I am a driven individual with the ability to adapt to any situation and proven potential to grow self and others.</li>
 </ul>
 
-<h4>Check my portfolio</h4>
-  [Portfolio](https://imran5644.github.io/portfolio/)
-
 <h4>I'm currently learning the technologies which i mentioned below at Microverse</h4>
 <ul>
   <li> HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
@@ -27,6 +24,10 @@
 ### :mailbox: How to reach me:
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imran56444) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/imran-yousaf-8777297b/)
 [![Connect on Github](https://img.shields.io/badge/--Github?label=Github&logo=Github&style=social)](https://github.com/imran5644)
+
+
+### Check my portfolio
+[![Portfolio](https://img.shields.io/badge/--Portfolio?label=Github&logo=Portfolio&style=social)](https://imran5644.github.io/portfolio/)
 
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran5644&show_icons=true&theme=radical)
