@@ -1,6 +1,9 @@
 
 <h4>Hi there 👋</h4>
 
+<h4>Status</h4>
+<p> currently available for hire or open to new job opportunities.</p>
+
 <h2>About me </h2>
 <ul>
   <li>I'm Imran Yousaf a Remote Full-stack Web Developer based in India.</li>
