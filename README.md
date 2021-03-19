@@ -8,8 +8,9 @@
   <li>Currently available for hire or open to new job opportunities.</li> 
   <li>Searching for interesting projects and awesome people to work with.</li>
   <li>I am a driven individual with the ability to adapt to any situation and proven potential to grow self and others.</li>
-  - Portfolio: [Portfolio](https://imran5644.github.io/portfolio/)
 </ul>
+
+  [Portfolio](https://imran5644.github.io/portfolio/)
 
 <h4>I'm currently learning the technologies which i mentioned below at Microverse</h4>
 <ul>
