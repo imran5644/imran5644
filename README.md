@@ -3,14 +3,14 @@
 
 <h2>About me </h2>
 <ul>
-  <li>I'm Imran Yousaf a Remote Full-stack Web Developer(Rails/Ruby/React) based in India.</li>
-  <li>I have a degree in Bachelor of Science in Computer Science and Engineering (CSE) 🎓</li>
-  <li>Currently available for hire or open to new job opportunities.</li> 
+  <li>I am Imran Yousaf a Remote Full-stack Web Developer(Rails/Ruby/React) based in India.</li>
+  <li>I have a Bachelor degree in Computer Science and Engineering (CSE) 🎓</li>
+  <li>I am currently available for hire or open to new job opportunities.</li> 
   <li>Searching for interesting projects and awesome people to work with.</li>
   <li>I am a driven individual with the ability to adapt to any situation and proven potential to grow myself and others.</li>
 </ul>
 
-<h4>I'm currently learning the technologies which I mentioned below at Microverse</h4>
+<h4>I am currently learning the technologies which I mentioned below at Microverse</h4>
 <ul>
   <li> HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
   and CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></li>
