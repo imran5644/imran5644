@@ -19,11 +19,11 @@
   <li> Rails </li>
   <li>React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></li>
   <li>Redux <img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"> </li>
-  <ul>
+</ul>
 
 ### :mailbox: How to reach me:
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imran56444) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/imran-yousaf-8777297b/)
-
+[![Connect on Github](https://img.shields.io/badge/--Github?label=Github&logo=Github&style=social)(https://github.com/imran5644)
 
 ### :construction_worker: This week stats by [WakaTime]('https://wakatime.com')
 <!--START_SECTION:waka-->
