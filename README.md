@@ -27,7 +27,7 @@
 
 
 ### Check my portfolio
-[![Portfolio](https://img.shields.io/badge/--Portfolio?label=Github&logo=Portfolio&style=social)](https://imran5644.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/--Portfolio?label=Portfolio&logo=Portfolio&style=social)](https://imran5644.github.io/portfolio/)
 
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran5644&show_icons=true&theme=radical)
