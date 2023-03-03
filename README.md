@@ -3,7 +3,7 @@
 
 <h2>About me </h2>
 <ul>
-  <li>I am Imran Yousaf a Remote Full-stack Web Developer(Rails/Ruby/React) based in India.</li>
+  <li>I am Imran Yousaf a Remote Software Developer(React) based in India.</li>
   <li>I have a Bachelor degree in Computer Science and Engineering (CSE) 🎓</li>
   <li>I am currently available for hire or open to new job opportunities.</li> 
   <li>Searching for interesting projects and awesome people to work with.</li>
